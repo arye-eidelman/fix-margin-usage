@@ -1,0 +1,9 @@
+body           { margin: 0; }
+blockquote     { margin: 0; padding: 1em    48px; }
+h1             { margin: 0; padding: 0.67em  8px; }
+h2             { margin: 0; padding: 0.83em  8px; }
+dl, h3, p, pre { margin: 0; padding: 1em     8px; }
+h4             { margin: 0; padding: 1.33em  8px; }
+h5             { margin: 0; padding: 1.67em  8px; }
+h6             { margin: 0; padding: 2.33em  8px; }
+ol, ul         { margin: 0; padding: 1em     8px 1em 40px; }
