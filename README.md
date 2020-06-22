@@ -19,3 +19,29 @@ Some uses of margin seem reasonable including `dd` and `fieldset`.
 ---
 
 This is based off The list of defaults from [w3schools.com/cssref/css_default_values.asp](https://www.w3schools.com/cssref/css_default_values.asp).
+
+## Usage with standard html
+
+```html
+<link rel="stylesheet" href="unpkg.com/fix-margin-usage@latest">
+```
+
+## Usage with a webpack powered build (like create-react-app)
+
+Install package:
+
+```bash
+npm install fix-margin-usage
+```
+
+or
+
+```bash
+yarn add fix-margin-usage
+```
+
+Import it index.js:
+
+```javascript
+import 'fix-margin-usage';
+```
