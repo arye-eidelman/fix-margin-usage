@@ -1,6 +1,6 @@
 {
   "name": "fix-margin-usage",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Fix browsers incorrect usage of margin instead of padding",
   "main": "index.css",
   "author": "Arye Eidelman <aryedoveidelman@gmail.com>",
