@@ -40,7 +40,7 @@ or
 yarn add fix-margin-usage
 ```
 
-Import it index.js:
+Import it in index.js:
 
 ```javascript
 import 'fix-margin-usage';
