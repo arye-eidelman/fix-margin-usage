@@ -23,7 +23,7 @@ This is based off The list of defaults from [w3schools.com/cssref/css_default_va
 ## Usage with standard html
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/ix-margin-usage@latest">
+<link rel="stylesheet" href="https://unpkg.com/ix-margin-usage@~0.1">
 ```
 
 ## Usage with a webpack powered build (like create-react-app)
