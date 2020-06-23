@@ -3,7 +3,8 @@
   "version": "0.0.4",
   "description": "Fix browsers incorrect usage of margin instead of padding",
   "main": "index.css",
-  "author": "Arye Eidelman <aryedoveidelman@gmail.com>",
+  "author": "Arye Eidelman <arye@hey.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "homepage": "https://github.com/arye-dov-eidelman/fix-margin-usage"
 }

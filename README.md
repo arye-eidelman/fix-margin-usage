@@ -1,4 +1,4 @@
-# fix margin usage
+# Fix margin usage
 
 This CSS file attempts to solve two issues with the usage of margin in browser styles.
 
@@ -23,7 +23,7 @@ This is based off The list of defaults from [w3schools.com/cssref/css_default_va
 ## Usage with standard html
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/fix-margin-usage@latest">
+<link rel="stylesheet" href="https://unpkg.com/ix-margin-usage@latest">
 ```
 
 ## Usage with a webpack powered build (like create-react-app)
